@@ -15,7 +15,7 @@ function getComputerChoice() {
 }
 
 function getHumanChoice() {
-
+    return prompt("What is your choice?")
 }
 
 function playRound() {
